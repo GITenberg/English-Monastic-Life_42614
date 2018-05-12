@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37321'
     url: http://www.gutenberg.org/2009/agents/37321
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42614#English-Monastic-Life
 gutenberg_issued: '2013-04-29'
 gutenberg_type: Text
 identifiers:

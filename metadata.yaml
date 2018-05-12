@@ -1,0 +1,27 @@
+_repo: English-Monastic-Life_42614
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gasquet, Francis Aidan
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '37321'
+    url: http://www.gutenberg.org/2009/agents/37321
+description: ''
+gutenberg_issued: '2013-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42614'
+  lccn: 04019648
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monasticism and religious orders -- England'
+- !lcc 'BX'
+title: English Monastic Life
+url: http://www.gutenberg.org/ebooks/42614
